@@ -12,4 +12,9 @@ Hi! I'm Rishika, a passionate developer who truly enjoys building smart, intuiti
 - VS Code (IDE)
 - Vercel (for hosting)
 
+## Have a Look
 ![portfolllll](https://github.com/user-attachments/assets/ceb02122-a6ca-4876-a85a-a80aefbab4dc)
+![pppp](https://github.com/user-attachments/assets/289336e4-2249-4ebe-a19b-046912a68121)
+![p](https://github.com/user-attachments/assets/cd1d0688-5a0a-4cb1-bafa-2592f1d48c63)
+![ooooooooooooooooo](https://github.com/user-attachments/assets/a6f9fa42-b9d5-4479-adcd-4cf3a1c056a6)
+
