@@ -13,6 +13,7 @@ Hi! I'm Rishika, a passionate developer who truly enjoys building smart, intuiti
 - Vercel (for hosting)
 
 ## Have a Look
+![s](https://github.com/user-attachments/assets/db26a2dc-acd7-4983-a979-759ed4608924)
 ![s1](https://github.com/user-attachments/assets/4d9ee828-baf2-4e6c-906c-8be05a340690)
 ![s2](https://github.com/user-attachments/assets/5c220eb2-f250-4ab6-bd71-5f88bc5f53c8)
 ![s3](https://github.com/user-attachments/assets/adce7348-da9b-4820-8d98-44f93023c2b5)
