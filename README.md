@@ -1,5 +1,5 @@
 # Rishika-Singh-Portfolio
-Welcome to my personal portfolio website! This is a showcase of my work, skills, and projects — built with love, clean code, and curiosity. This project is a simple static website, built from scratch, hosted through Vercel.
+Welcome to my personal portfolio website! This is a showcase of my work, skills, and projects — built with love, clean code, and curiosity. This project is a simple static website, built from scratch, hosted through Vercel. It supports both mobile and desktop view.
 
 ## About Me
 
